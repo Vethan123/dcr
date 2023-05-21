@@ -49,5 +49,4 @@ Links:
 2. [Research Doc](https://cliff-colt-e2a.notion.site/Clean-Room-Doc-f606d90163ff4ca9b14bae92c0db328d)
 3. [dcr YouTube Video](https://youtu.be/uQIePGL3kT8)
 3. https://confidentialcomputing.io
-4. https://differentialprivacy.org 
-
+4. https://differentialprivacy.org
